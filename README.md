@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **HTML, CSS, JavaScript**
 
-- 📫 How to reach me **sonalifernando1121@gmail.com**
+- 📫 How to reach me **sonalifernando98@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
